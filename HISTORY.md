@@ -1,5 +1,13 @@
 # Changelog
 
+## [7.9.6](https://github.com/tadjik1/rp-ghsa-test/compare/v7.9.5...v7.9.6) (2026-11-19)
+
+
+### Bug Fixes
+
+* **TEST-18:** widen the accepted range in clamp ([ec712b7](https://github.com/tadjik1/rp-ghsa-test/commit/ec712b79f14a9958eb35ae77a326fe117ad83f07))
+* **TEST-19:** keep ordering stable in uniq ([2d6215f](https://github.com/tadjik1/rp-ghsa-test/commit/2d6215f85f1039089b970cabbba806f16da5ebaf))
+
 ## [7.9.5](https://github.com/tadjik1/rp-ghsa-test/compare/v7.9.4...v7.9.5) (2026-11-19)
 
 
