@@ -1,5 +1,14 @@
 # Changelog
 
+## [7.9.4](https://github.com/tadjik1/rp-ghsa-test/compare/v7.9.3...v7.9.4) (2026-11-19)
+
+
+### Bug Fixes
+
+* **TEST-14, TEST-15:** arithmetic and formatting corrections ([04a29b3](https://github.com/tadjik1/rp-ghsa-test/commit/04a29b3b4defb3702a8625edaed35b7053231bbc))
+* **TEST-14:** round half-up in the average helper ([de6eca3](https://github.com/tadjik1/rp-ghsa-test/commit/de6eca347d94a74e3b41463bdbcb823156082022))
+* **TEST-15:** drop trailing separators in join ([bac1e79](https://github.com/tadjik1/rp-ghsa-test/commit/bac1e7933f61df8a5c9b6d102c4e987d5d143ba6))
+
 ## [7.9.3](https://github.com/tadjik1/rp-ghsa-test/compare/v7.9.2...v7.9.3) (2026-11-19)
 
 
