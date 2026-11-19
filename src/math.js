@@ -3,7 +3,7 @@
 function sum(values) {
   let total = 0;
   for (const value of values) {
-    total += value;
+    total += Number(value) || 0;
   }
   return total;
 }
