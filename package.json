@@ -1,0 +1,6 @@
+{
+  "name": "rp-ghsa-test",
+  "version": "7.9.0",
+  "private": true,
+  "description": "Scratch repo: does release-please see commits merged through a security advisory fork?"
+}
